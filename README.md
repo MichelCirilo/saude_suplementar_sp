@@ -1,7 +1,14 @@
 # Sobre o projeto
 
 Template de uma aplicação desenvolvida no QlikSense para analise de dados.
-Com base em informações disponibilizadas pela ANS e IBGE, referente Censo Populacional do estado de São Paulo e a quantidade de beneficiários informada no SIB para a Saúde Suplementar.
+
+## Base de dados abertos
+
+**ANS**
+  Quantidade de beneficiários informada no SIB para a Saúde Suplementare.
+  
+**IBGE**
+  Censo Populacional da cidades do estado de São Paulo.
 
 ## QlikSense
 
@@ -19,6 +26,4 @@ Com base em informações disponibilizadas pela ANS e IBGE, referente Censo Popu
 Michel Cirilo de Oliveira
 
 https://www.linkedin.com/in/michel-cirilo/
-
-
 
