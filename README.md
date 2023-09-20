@@ -17,7 +17,7 @@ Com base em informações disponibilizadas pela ANS e IBGE, foram feitas correla
 
 Michel Cirilo de Oliveira
 
-(https://www.linkedin.com/in/michel-cirilo/)https://www.linkedin.com/in/michel-cirilo/
+https://www.linkedin.com/in/michel-cirilo/
 
 
 
