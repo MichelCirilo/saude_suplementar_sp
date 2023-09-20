@@ -13,11 +13,14 @@ Template de uma aplicação desenvolvida no QlikSense para analise de dados.
 
 # QlikSense
 
-## Carga de Dados
-![Editor de Carga de Dados](https://github.com/MichelCirilo/saude_suplementar_sp/blob/main/image/Editor.jpg)
+## Dashboard
+![Dashboard](https://github.com/MichelCirilo/saude_suplementar_sp/blob/main/image/Dash.jpg)
 
 ## Modelo
 ![Modelo de Dados](https://github.com/MichelCirilo/saude_suplementar_sp/blob/main/image/modelo.jpg)
+
+## Carga de Dados
+![Editor de Carga de Dados](https://github.com/MichelCirilo/saude_suplementar_sp/blob/main/image/Editor.jpg)
 
 
 # Autor
