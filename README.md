@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Template de 
+Template de uma aplicação desenvolvida no QlikSense para analise de dados.
 Com base em informações disponibilizadas pela ANS e IBGE, referente Censo Populacional do estado de São Paulo e a quantidade de beneficiários informada no SIB para a Saúde Suplementar.
 
 ## QlikSense
