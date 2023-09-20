@@ -1,4 +1,4 @@
-# Sobre o projeto
+# Sobre o Projeto
 
 Template de uma aplicação desenvolvida no QlikSense para analise de dados.
 
