@@ -1,17 +1,18 @@
 # Sobre o projeto
 
-Com base em informações disponibilizadas pela ANS e IBGE, foram feitas correlações entre o Censo Populacional do estado de São Paulo e a quantidade de beneficiários informada no SIB para a Saúde Suplementar.
+Template de 
+Com base em informações disponibilizadas pela ANS e IBGE, referente Censo Populacional do estado de São Paulo e a quantidade de beneficiários informada no SIB para a Saúde Suplementar.
 
 ## QlikSense
 
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/)
 
 # Autor
 
