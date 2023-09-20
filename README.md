@@ -10,20 +10,19 @@ Template de uma aplicação desenvolvida no QlikSense para analise de dados.
 **IBGE**
   Censo Populacional da cidades do estado de São Paulo.
 
-## QlikSense
 
+# QlikSense
 
-## Layout web
-![Editor de Carga de Dados]([https://github.com/](https://github.com/MichelCirilo/saude_suplementar_sp/blob/main/image/Editor.jpg))
+## Carga de Dados
+![Editor de Carga de Dados](https://github.com/MichelCirilo/saude_suplementar_sp/blob/main/image/Editor.jpg)
 
-![Modelo de Dados]([https://github.com/](https://github.com/MichelCirilo/saude_suplementar_sp/blob/main/image/modelo.jpg))
+## Modelo
+![Modelo de Dados](https://github.com/MichelCirilo/saude_suplementar_sp/blob/main/image/modelo.jpg)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/)
 
 # Autor
 
-Michel Cirilo de Oliveira
+**Michel Cirilo de Oliveira**
 
 https://www.linkedin.com/in/michel-cirilo/
 
