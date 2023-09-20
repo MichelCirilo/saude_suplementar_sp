@@ -14,9 +14,9 @@ Template de uma aplicação desenvolvida no QlikSense para analise de dados.
 
 
 ## Layout web
-![Web 1](https://github.com/)
+![Editor de Carga de Dados]([https://github.com/](https://github.com/MichelCirilo/saude_suplementar_sp/blob/main/image/Editor.jpg))
 
-![Web 2](https://github.com/)
+![Modelo de Dados]([https://github.com/](https://github.com/MichelCirilo/saude_suplementar_sp/blob/main/image/modelo.jpg))
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/)
