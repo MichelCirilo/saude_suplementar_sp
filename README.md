@@ -5,10 +5,10 @@ Template de uma aplicação desenvolvida no QlikSense para analise de dados.
 ## Base de dados abertos
 
 **ANS**
-  Quantidade de beneficiários informada no SIB para a Saúde Suplementare.
+  Quantidade de beneficiários informada no SIB para a Saúde Suplementar.
   
 **IBGE**
-  Censo Populacional da cidades do estado de São Paulo.
+  Censo Populacional das cidades do estado de São Paulo.
 
 
 # QlikSense
