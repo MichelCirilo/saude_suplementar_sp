@@ -5,7 +5,7 @@ Template de uma aplicação desenvolvida no QlikSense para analise de dados.
 ## Base de dados abertos
 
 **ANS**
-  Quantidade de beneficiários informada no SIB para a Saúde Suplementar. ref.: sib_202306
+  Quantidade de beneficiários informado no SIB para a Saúde Suplementar. ref.: sib_202306
   
 **IBGE**
   Censo Populacional das cidades do estado de São Paulo. ref.: 2022
